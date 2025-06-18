@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- 主页 -->
     <url>
-        <loc>https://x17b.github.io/</loc>
+        <loc>https://b17k.github.io/</loc>
         <lastmod>2024-06-20</lastmod>
     </url>
     <!-- 你的GitHub仓库 -->
     <url>
-        <loc>https://github.com/x17b/Tiktokpurchase</loc>
-        <loc>https://github.com/x17b/WeChatpurchase</loc>
-        <loc>https://github.com/x17b/Zhihuaccountpurchase</loc>
-        <loc>https://github.com/x17b/Kwaipurchase</loc>   
-        <loc>https://github.com/x17b/BaiduPostBar</loc>
-        <loc>https://github.com/x17b/QQaccountpurchase</loc> 
+        <loc>https://github.com/b17k/58LocalAccountPurchase</loc>
+        <loc>https://github.com/b17k/Headline-account-purchase</loc>
+        <loc>https://github.com/b17k/Alipay-account-purchase</loc>
+        <loc>https://github.com/b17k/Purchase-on-Taobao-account</loc>   
+        <loc>https://github.com/b17k/Purchase-from-Qianniu-Xianyu-account</loc>
+        <loc>https://github.com/b17k/Purchase-from-Pinduoduo-store-account</loc> 
         <lastmod>2024-06-20</lastmod>
     </url>
 </urlset>
